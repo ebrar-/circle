@@ -1,3 +1,4 @@
-  ruby:
-    version:
-      1.8.7-p358-falcon-perf
+machine:
+    ruby:
+        version:
+          2.2.3
