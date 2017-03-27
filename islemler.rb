@@ -1,7 +1,7 @@
 def toplama(n,m)
 	if n.length < m.length
 	  k=0
-		while k =< (m.length-n.length)
+		while k <= (m.length-n.length)
 			n.insert(0,0)
 		end
 	elsif m.length < n.length
