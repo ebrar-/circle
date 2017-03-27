@@ -12,7 +12,7 @@ def toplama(n,m)
 	end
 
 	sonuc = []
-	sonuc1  0
+	sonuc1 = 0
 	elde = 0
   i=n.length-1
   while i >= 0
