@@ -1,7 +1,5 @@
-dependencies:
-  post:
-    - apt-get install ruby
-    
+
+
     test:
   override:
     - ruby deneme.rb
