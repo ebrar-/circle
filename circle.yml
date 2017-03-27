@@ -2,6 +2,9 @@ machine:
     ruby:
         version:
           2.2.3
+    phyton:
+        version:
+          2.7
 test:
     override:
         - ruby ortalama.rb
