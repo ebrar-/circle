@@ -2,9 +2,7 @@ machine:
     ruby:
         version:
           2.2.3
-    python:
-        version:
-          2.7
+
 test:
     override:
         - ruby ortalama.rb
