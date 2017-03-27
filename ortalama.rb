@@ -7,4 +7,5 @@ elsif (ortalama < 90 and ortalama > 75)
 	puts "B"
 else 
 	puts "C"
+end
 puts "#{ortalama}"
