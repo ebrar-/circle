@@ -1,6 +1,6 @@
 #encoding : utf-8
 puts "Ortalamaya Göre Not Hesaplama"
-ortalama = 80
+ortalama = 90
 if (ortalama <=90)
 	puts "A"
 elsif (ortalama < 90 and ortalama >= 75)
