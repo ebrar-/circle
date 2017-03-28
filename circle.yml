@@ -6,4 +6,4 @@ machine:
 test:
     override:
         - ruby ortalama.rb
-        - ruby islemler.rb
+  
